@@ -70,11 +70,11 @@ git clone git@gitlab.com:entri/entrime.git && cd entrime
 ```
 entri webapp
 ```bash
-git@gitlab.com:entri/entriweb.git && cd entriweb && yarn
+git clone git@gitlab.com:entri/entriweb.git && cd entriweb && yarn
 ```
 entri content dashboard
 ```bash
-git@gitlab.com:entri/content-platform.git
+git clone git@gitlab.com:entri/content-platform.git
 ```
 
 
